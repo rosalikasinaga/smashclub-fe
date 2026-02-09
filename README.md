@@ -1,1 +1,1 @@
-# smashclup-vercel
+# smashclub
