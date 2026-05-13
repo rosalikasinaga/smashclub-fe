@@ -1,6 +1,6 @@
 # SmashClub Frontend
 
-Frontend application for SmashClub, a badminton club management platform.
+Frontend application for SmashClub, a tennis club management platform.
 
 ## Features
 - Authentication & Authorization
@@ -21,3 +21,4 @@ Frontend application for SmashClub, a badminton club management platform.
 ```bash
 npm install
 npm run dev
+```
